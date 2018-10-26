@@ -11,3 +11,8 @@ def linear(lst,num):
         if lst[i]==num:
             return i
     return None 
+
+#%%
+    
+def hello():
+    print ("hello")
